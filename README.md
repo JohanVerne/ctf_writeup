@@ -14,6 +14,10 @@ DNS - transfert de zone
 CISCO - mot de passe
 Shift cipher
 Monoalphabetic substitution - Caesar
+Hash - SHA-2
+Known plaintext - XOR
+HTTP - Cookies
+HTTP - Headers
 
 **Commencés mais pas terminés** :
 

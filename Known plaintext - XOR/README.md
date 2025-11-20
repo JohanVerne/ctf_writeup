@@ -14,7 +14,8 @@ J'ai utilisé le dépot https://github.com/apemax/XORCrypt et les commandes
 
 ```bash
 cd XORCrypt
-make cd build
+make
+cd build
 echo fallen > keyfile #En faisant varier la clé dans le fichier avec celles obtenues par xor-cracker
 ./XORCrypt -i ../../ch3.bmp -k keyfile
 ```
