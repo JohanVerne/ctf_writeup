@@ -12,6 +12,8 @@ ETHERNET - trame
 Bluetooth - Fichier inconnu
 DNS - transfert de zone
 CISCO - mot de passe
+Shift cipher
+Monoalphabetic substitution - Caesar
 
 **Commencés mais pas terminés** :
 
