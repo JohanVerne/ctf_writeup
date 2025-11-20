@@ -18,6 +18,8 @@ Hash - SHA-2
 Known plaintext - XOR
 HTTP - Cookies
 HTTP - Headers
+HTTP - User-agent
+HTTP - POST
 
 **Commencés mais pas terminés** :
 
