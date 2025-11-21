@@ -13,7 +13,7 @@ On extrait la colonne HID Data avec tshark : `tshark -r capture.pcap -T fields -
 
 On emprunte enfin le script pour décoder les valeurs des touches préssées à ce site : https://infosecwriteups.com/keystroke-forensics-101-extracting-secrets-from-usb-traffic-7fdd4797d1a9
 
-On obteitn enfin le flag en plaintext
+On obtient enfin le flag en plaintext
 
 ## Flag
 

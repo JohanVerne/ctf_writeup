@@ -12,7 +12,7 @@ Sur Kali, on utilise John The Ripper pour le décrypter avec la commande $john -
 
 En fait non, la brute force a l'air trop longue
 
-Avec le site https://www.ifm.net.nz/cookbooks/passwordcracker.html, on peut cracker les 3 mots de passe type 7 présente au lignes 17 à 19
+Avec le site https://www.ifm.net.nz/cookbooks/passwordcracker.html, on peut cracker les 3 mots de passe type 7 présents aus lignes 17 à 19
 On obtient les mots de passe suivants :
 
 - 6sK0_hub
